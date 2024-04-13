@@ -8,3 +8,33 @@ html, body {
 body {
     background-color: #FDD400;
 }
+
+.p1box {
+    z-index: -1;
+    display: flex;
+    align-items: self-start;
+    margin-top: 80px;
+    margin-right: 80px;
+}
+
+.p1box1 {
+    z-index: -1;
+    width: 60%;
+    height: 20vw;
+    border: #252525;
+    margin-left: 80px;
+    border-style: solid;
+    border-width: 0.4%;
+    border-right-width: 0.4%;
+    border-bottom-width: 0.4%;
+}
+
+.p1box2 {
+    z-index: -1;
+    width: 20%;
+    height: 20vw;
+    border: #252525;
+    border-width: 0.4%;
+    border-right-width: 0.4%;
+    border-bottom-width: 0.4%;
+}
